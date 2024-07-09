@@ -1778,6 +1778,14 @@
         <td></td>
         <td><a href="https://aitoolsdirectory.com/" target="_blank">🔗</a></td>
     </tr> 
+     <tr>
+        <td>39</td>
+        <td><img src="https://st2.ai55.cc/1/7e3ab182dc88fadf66d549977a92c507.ico" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://www.aitoolslist.top/" target="_blank">aitoolslist.top</a></td>
+        <td></td>
+        <td></td>
+        <td><a href="https://www.aitoolslist.top/" target="_blank">🔗</a></td>
+    </tr> 
 </table>
 
 
